@@ -1,0 +1,10 @@
+{
+  "false_username": "John Bull",
+  "false_password": "ThisIsNotAPasscode",
+  "username": "John Doe",
+  "password": "ThisIsNotAPassword",
+  "page_title": "CURA Healthcare Service",
+  "login_error": "Login failed! Please ensure the username and password are valid.",
+  "appointment_url": "https://katalon-demo-cura.herokuapp.com/#appointment"
+}
+
